@@ -1,0 +1,5 @@
+id,policyId,policyType,status,user_id
+1,J6,"Car Insurance",InActive,1
+2,J8,"Bike Insurance",InActive,1
+3,H2,"Car Insurance",Active,2
+4,H4,"Bike Insurance",Active,2
